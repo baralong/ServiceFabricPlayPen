@@ -1,9 +1,9 @@
-﻿{
+{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:58554/",
+      "applicationUrl": "http://localhost:19081/ServiceFabricPlayPen/StatelessWeb/",
       "sslPort": 0
     }
   },
@@ -23,7 +23,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:58555"
+      "applicationUrl": "http://localhost:19081/ServiceFabricPlayPen/StatelessWeb"
     }
   }
 }
